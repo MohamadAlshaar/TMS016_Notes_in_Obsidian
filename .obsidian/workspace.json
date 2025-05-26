@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "c7c9ab664406415a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eda91f9f051a156",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e826fb970ae6249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Image Classification and Feature Extraction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 Image Classification and Feature Extraction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23a580ecb560cd17",
+    "type": "split",
+    "children": [
+      {
+        "id": "23a043b73338a4fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "956e438ac5ec9a5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eead76487ab1bf0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d01c86f5e07997c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "722d934d055e0b4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9e103eca02e7236",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3cdfcfd7d05a4c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 Point Processes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 3 Point Processes"
+            }
+          },
+          {
+            "id": "669c430eb47eede2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6f99dcc72f6a8e71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "de38946afc8e3e1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "L1 General background.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of L1 General background"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3e826fb970ae6249",
+  "lastOpenFiles": [
+    "4 Image Classification and Feature Extraction.md",
+    "Neural Networks.md",
+    "Convolutional Neural Network.md",
+    "Gaussian Mixture Model.md",
+    "Expectation Maximization.md",
+    "K-means.md",
+    "1 General background.md",
+    "Intensity Based Thresholding.md",
+    "Intensity Histogram.md",
+    "Central Image Moments.md",
+    "Hu Moments.md",
+    "Raw Moments.md",
+    "Support Vector Machine.md",
+    "M-Nearest Neighbours.md",
+    "Discriminant Analysis.md",
+    "Covariance Matrix.md",
+    "Gaussian Markov Random Field.md",
+    "Miscalculations.md",
+    "Parameter Estimation.md",
+    "3 Point Processes.md",
+    "2 Model Dependencies and Kriging.md",
+    "Markov Random Fields.md",
+    "Ising Model.md",
+    "Edge Detection.md",
+    "Auto-normal MRF.md",
+    "Kriging.md",
+    "Solving $"
+  ]
+}

@@ -1,0 +1,1 @@
+Plot number of pixels on $y$-axis and intensity on $x$-axis to see how many pixels have this intensity
