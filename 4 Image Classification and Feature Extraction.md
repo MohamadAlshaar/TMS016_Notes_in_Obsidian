@@ -27,7 +27,7 @@ And in cases where we do not have labels to start with, we use **Image Segmentat
 - [[Intensity Based Thresholding]]
 - [[K-means]]
 - [[Gaussian Mixture Model]]
-**Note**: those models work when we want to define $2$ classes, the reason we choose more than $2$ though for example in GMM or K-means is to tell the algorithm that the class might differ in size, shape, intensity and so on, *even though we have only Rice or Not, different rice will have somewhat different shapes and intensities depending on shadows.*
+**Note**: those models work when we want to define $2$ classes, the reason we choose more than $2$ though for example in GMM or K-means is to tell the algorithm that the class might differ in size, shape, intensity and so on, *even though we have only Rice or Not, different rice will have somewhat different shapes and intensities depending on shadows.* And the number of classes define more *colours*, whilst $K=2$ is *black* and *white*.
 
 Up to now we have focused on how to label images, now we want to extract meaningful feature to be able to distinguish different classes. 
 

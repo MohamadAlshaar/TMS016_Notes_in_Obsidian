@@ -20,3 +20,8 @@ The image is our mathematical domain/field, where $X$ ($i.e$ the random variable
 
 	**Problem?**
 	The normalizing constant $Z$ in the density functions in the models often are too large and unknown. Therefore we use [[Markov Chain Monte Carlo Methods]].
+
+
+**Image Filtering**
+	We can improve image properties by constructing a new image $g$ given an image $f$ by borrowing information from neighbours. This can be done as [[Linear filtering]] [[Median filtering]] or [[Gaussian filtering]]. 
+	Filtering helps us in image segmentation and **[[Edge Detection]].** 

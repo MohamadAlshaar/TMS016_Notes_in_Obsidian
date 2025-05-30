@@ -8,7 +8,7 @@ $$
 
 Where:
 
-- $pi_k$ : weight (prior probability) of cluster $k$ (sums to 1)  
+- $\pi_k$ : weight (prior probability) of cluster $k$ (sums to 1)  
 - $\mu_k$ : mean of the $k$ -th Gaussian  
 - $\Sigma_k$ : **covariance matrix** (shape/spread) of the Gaussian  
 -  $\mathcal{N}(x \mid \mu_k, \Sigma_k$) : multivariate Gaussian density.

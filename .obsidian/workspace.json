@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Image Classification and Feature Extraction.md",
+                "file": "1 General background.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 Image Classification and Feature Extraction"
+              "title": "1 General background"
             }
           }
         ]
@@ -169,32 +169,32 @@
   },
   "active": "3e826fb970ae6249",
   "lastOpenFiles": [
-    "4 Image Classification and Feature Extraction.md",
-    "Neural Networks.md",
-    "Convolutional Neural Network.md",
-    "Gaussian Mixture Model.md",
-    "Expectation Maximization.md",
-    "K-means.md",
-    "1 General background.md",
-    "Intensity Based Thresholding.md",
-    "Intensity Histogram.md",
-    "Central Image Moments.md",
-    "Hu Moments.md",
-    "Raw Moments.md",
-    "Support Vector Machine.md",
-    "M-Nearest Neighbours.md",
-    "Discriminant Analysis.md",
-    "Covariance Matrix.md",
-    "Gaussian Markov Random Field.md",
-    "Miscalculations.md",
-    "Parameter Estimation.md",
-    "3 Point Processes.md",
     "2 Model Dependencies and Kriging.md",
-    "Markov Random Fields.md",
-    "Ising Model.md",
-    "Edge Detection.md",
-    "Auto-normal MRF.md",
+    "4 Image Classification and Feature Extraction.md",
+    "Variogram.md",
+    "Expectation Maximization.md",
+    "Gaussian Mixture Model.md",
     "Kriging.md",
+    "1 General background.md",
+    "Local Scale.md",
+    "Point Process Characteristics.md",
+    "Types of Processes.md",
+    "3 Point Processes.md",
+    "Stationary.md",
+    "Support Vector Machine.md",
+    "Solve Matrix.md",
+    "Raw Moments.md",
+    "Precision Matrix.md",
+    "Parameter Estimation.md",
+    "Neural Networks.md",
+    "Miscalculations.md",
+    "Median filtering.md",
+    "Markov Random Fields.md",
+    "Markov Chain Monte Carlo Methods.md",
+    "M-Nearest Neighbours.md",
+    "Linear filtering.md",
+    "K-means.md",
+    "Joint Distribution.md",
     "Solving $"
   ]
 }

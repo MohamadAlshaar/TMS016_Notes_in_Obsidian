@@ -3,7 +3,7 @@ The **semi-variogram** is defined as:
 $$
 \gamma(s, t) = \frac{1}{2} \operatorname{Var}(X(s) - X(t))
 $$
-
+Or (in relation to the [[Covariance Function $C$]]):$$\gamma(s,t)=\frac{1}{2}(C(s,s)+C(t,t)-2C(s,t))$$
 For a **stationary and isotropic** field:
 
 $$
