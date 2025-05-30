@@ -44,3 +44,11 @@ But the most flexible one is The Matérn Correlation Function:
 $$
 \rho(r; \nu, \theta) = \frac{2^{1 - \nu}}{\Gamma(\nu)} \left( \frac{r}{\theta} \right)^\nu K_\nu \left( \frac{r}{\theta} \right)
 $$
+
+An *Empirical Variogram* essentially does the same thing, being the original, however the data here are presented raw. The variogram and those different functions (linear, spherical....) are a way to fit this raw data on a graph, meaning we smooth it out. Formally you compute it directly from your observed field $X(s)$:
+
+$$
+\hat{\gamma}(h) = \frac{1}{2N(h)} \sum_{\|s_i - s_j\| \approx h} \left[ X(s_i) - X(s_j) \right]^2
+$$
+It's a scattered cloud of points that shows how variability grows with distance.
+
