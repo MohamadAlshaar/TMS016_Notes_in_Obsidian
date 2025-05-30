@@ -51,4 +51,5 @@ $$
 \hat{\gamma}(h) = \frac{1}{2N(h)} \sum_{\|s_i - s_j\| \approx h} \left[ X(s_i) - X(s_j) \right]^2
 $$
 It's a scattered cloud of points that shows how variability grows with distance.
+Here: $N(h)$ is the number of points in bin $h$- meaning a group of pairs that has similar/close enough distances.
 
