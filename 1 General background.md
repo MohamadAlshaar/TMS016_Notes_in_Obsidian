@@ -30,7 +30,12 @@ The image is our mathematical domain/field, where $X$ ($i.e$ the random variable
 
 
 **Image Filtering**
+<<<<<<< HEAD
 	We can improve image properties by constructing a new image $g$ given an image $f$ by borrowing information from neighbours. This can be done as [[Linear filte
 	ring]] [[Median filtering]] or [[Gaussian filtering]]. 
 >>>>>>> d4794ce (update)
+=======
+	This is a *deterministic* filtering way in contrast to the probabilistic model used for highlighting structure or reducing noise. 
+	We can improve image properties by constructing a new image $g$ given an image $f$ by borrowing information from neighbours. This can be done as [[Linear filtering]] [[Median filtering]] or [[Gaussian filtering]]. 
+>>>>>>> 4fef4bd (Updated)
 	Filtering helps us in image segmentation and **[[Edge Detection]].** 

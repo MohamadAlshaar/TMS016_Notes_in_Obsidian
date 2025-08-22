@@ -14,19 +14,27 @@
               "type": "markdown",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Variogram.md",
 =======
                 "file": "Markov Chain Monte Carlo Methods.md",
 >>>>>>> d4794ce (update)
+=======
+                "file": "4 Image Classification and Feature Extraction.md",
+>>>>>>> 4fef4bd (Updated)
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
 <<<<<<< HEAD
+<<<<<<< HEAD
               "title": "Variogram"
 =======
               "title": "Markov Chain Monte Carlo Methods"
 >>>>>>> d4794ce (update)
+=======
+              "title": "4 Image Classification and Feature Extraction"
+>>>>>>> 4fef4bd (Updated)
             }
           }
         ]
@@ -182,6 +190,7 @@
   "active": "3e826fb970ae6249",
   "lastOpenFiles": [
 <<<<<<< HEAD
+<<<<<<< HEAD
     "2 Model Dependencies and Kriging.md",
     "1 General background.md",
     "4 Image Classification and Feature Extraction.md",
@@ -193,8 +202,14 @@
     "Isotropy.md",
     "Stationary.md",
     "3 Point Processes.md",
+=======
+    "K-means.md",
+>>>>>>> 4fef4bd (Updated)
     "4 Image Classification and Feature Extraction.md",
+    "Miscalculations.md",
+    "M-Nearest Neighbours.md",
     "Discriminant Analysis.md",
+<<<<<<< HEAD
     "2 Model Dependencies and Kriging.md",
     "Linear filtering.md",
     "Auto-normal MRF.md",
@@ -228,6 +243,29 @@
     "Joint Distribution.md",
 =======
 >>>>>>> d4794ce (update)
+=======
+    "Parameter Estimation.md",
+    "3 Point Processes.md",
+    "Point Process Characteristics.md",
+    "Types of Processes.md",
+    "Cumulative Scale.md",
+    "Local Scale.md",
+    "2 Model Dependencies and Kriging.md",
+    "1 General background.md",
+    "Kriging.md",
+    "Solve Matrix.md",
+    "Covariance Matrix.md",
+    "Variogram.md",
+    "Stationary.md",
+    "Joint Distribution.md",
+    "Covariance Function $C$.md",
+    "Edge Detection.md",
+    "Gaussian filtering.md",
+    "Median filtering.md",
+    "Linear filtering.md",
+    "Markov Chain Monte Carlo Methods.md",
+    "Ising Model.md",
+>>>>>>> 4fef4bd (Updated)
     "Solving $"
   ]
 }

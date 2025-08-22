@@ -16,7 +16,7 @@ All together we want to find: $$\pi_i f_i > \pi_j f_j$$
 For that we have the following classifying methods:
 - [[Discriminant Analysis]] (Linear and Quadratic)
 
-[[M-Nearest Neighbours]] is also a classifying method that doesn’t use Bayes’ rule directly, but can still get very close to its performance if you have enough data and a good distance metric.
+[[M-Nearest Neighbours]] is also a classifying method that doesn’t use Bayes’ rule directly, it is deterministic, but can still get very close to its performance if you have enough data and a good distance metric.
 #### However
 We also want to reduce the [[Miscalculations]] and penalize them if we are wrong.
 
