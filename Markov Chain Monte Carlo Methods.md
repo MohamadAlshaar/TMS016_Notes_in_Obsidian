@@ -43,19 +43,18 @@ These methods include:
 
 	
 - **Metropolis Hasting** 
-	- Start with some current state (say, a spin configuration).
-	    
-	- Propose a _small random change_ (e.g. flip one spin).
-	    
-	- Compute how much more/less probable the new state is compared to the old one.
-	    
-	- Accept the move with a certain probability:
-	    
-	    - If the new state is _better_ (higher probability), almost always accept.
-	        
-	    - If it’s worse, maybe accept (to avoid getting stuck).
-	        
-	- Repeat many times.
-	    
-	
-	 Intuition: it’s like a _random hill-climb with wiggle room_: you mostly go towards better configurations, but sometimes step down so you don’t get trapped.
+	- We flip the spins to see how well the sites align with their neighbors.  In Gibbs, one sweep of the grid is one sample. Here, one site update is one sample.
+	1. Initiate by choosing a starting configuration $x^{(0)}$. 
+	2. Generate iterations $i \rightarrow i+1$
+	   
+		Pick a site $s$ at random.
+		
+		Propose a flip of spin.
+		
+		Compute energy difference.
+		
+		Compute acceptance probability.
+		
+		Accept or reject, if this new configuration is more probable accept, otherwise reject. 
+		
+	1. Repeat. 
