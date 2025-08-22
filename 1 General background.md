@@ -19,9 +19,18 @@ The image is our mathematical domain/field, where $X$ ($i.e$ the random variable
 	We can control our spatial dependencies, $a.k.a$, how much we let each pixel want to match with its neighbours by using, for example, **[[Ising Model]]**- that is a Discrete MRF with certain behaviour, or **[[Auto-normal MRF]]**- that is a continuous MRF. 
 
 	**Problem?**
+<<<<<<< HEAD
 	The normalizing constant $Z$ in the density functions in the models often are too large and unknown. Therefore we use [[Markov Chain Monte Carlo Methods]].
 
 
 **Image Filtering**
 	We can improve image properties by constructing a new image $g$ given an image $f$ by borrowing information from neighbours. This can be done as [[Linear filtering]] [[Median filtering]] or [[Gaussian filtering]]. 
+=======
+	The normalizing constant $Z$ in the density functions in the models often are too large and unknown when we have complex models and we’d really like to know what “typical”. Therefore we use [[Markov Chain Monte Carlo Methods]].
+
+
+**Image Filtering**
+	We can improve image properties by constructing a new image $g$ given an image $f$ by borrowing information from neighbours. This can be done as [[Linear filte
+	ring]] [[Median filtering]] or [[Gaussian filtering]]. 
+>>>>>>> d4794ce (update)
 	Filtering helps us in image segmentation and **[[Edge Detection]].** 

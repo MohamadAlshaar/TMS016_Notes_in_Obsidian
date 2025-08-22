@@ -1,3 +1,9 @@
 {
+<<<<<<< HEAD
   "cssTheme": "Things"
+=======
+  "cssTheme": "Things",
+  "accentColor": "",
+  "theme": "obsidian"
+>>>>>>> d4794ce (update)
 }
