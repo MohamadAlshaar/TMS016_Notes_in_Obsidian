@@ -13,7 +13,7 @@ To model your point process, we can use:
 
 - **Cox Process:**
 		Where it can be spatial, temporal, spatio-temporal or other. The difference is, this one is stochastic (random)- meaning the intensity function itself is random. 
-
+  
 - **Gibbs/Markov Process**:
 		Interactions between points are explicitly modelled via an **energy function**. To create repulsion (increase) or inhibition (decrease), *if two points are too close, penalize them (repulsion), and vice versa (inhibition)*.
 			**Strauss Process**: is a specific type of this, it models repulsion between nearby points, *example*- trees that need space between them, this process penalizes *trees* that are too close.

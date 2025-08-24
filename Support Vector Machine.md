@@ -15,9 +15,8 @@ $$subject to:
 $$
 y_i(\beta^T x_i + \beta_0) \geq 1 - \xi_i, \quad \xi_i \geq 0
 $$
+
 (This becomes an optimization problem)
-
-
 
 As we said, in higher dimensions, instead of using lines to separate classes we can use kernel functions, most common ones:
 - Linear kernel: $K(x, x') = x^T x'$

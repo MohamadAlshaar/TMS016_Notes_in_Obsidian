@@ -5,6 +5,15 @@ In [[2 Model Dependencies and Kriging]], we talked about how to filter data and 
 
 **Image Classification** is when we give labels to an image (or a part of an image/object), $example$, what is sky and what is water in an image. The core idea here is to use *Bayes Theorem* to guess what class the object has, $i.e$, find the posterior. 
 
+Bayes:
+$$
+P(y = k \mid x) = \frac{f_k(x)\,\pi_k}{\sum_{j=1}^K f_j(x)\,\pi_j}
+$$
+Example use, say we want to find class $k$ and we have classes $y=\{-1, 1\}$ then the formula becomes: 
+$$
+P(y = k \mid x) = \frac{f_k(x)\pi_k}{f_0(x)\pi_0 + f_1(x)\pi_1}
+$$
+
 We have $2$ classes, $\omega_1$ and $\omega_2$ and for each object (part of an image) observe a real valued feature- The goal here is to classify the object into either $\omega_1$ or $\omega_2$.  This is how we do it:
 
 - **Prior Probabilities $\pi_1 , \pi_2$**: how likely is the object to belong to a class. *Example*- if we have more sky than water, we want $\rightarrow$ $\pi_{sky} > \pi_{water}$

@@ -191,6 +191,7 @@
   "lastOpenFiles": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "2 Model Dependencies and Kriging.md",
     "1 General background.md",
     "4 Image Classification and Feature Extraction.md",
@@ -208,6 +209,8 @@
     "4 Image Classification and Feature Extraction.md",
     "Miscalculations.md",
     "M-Nearest Neighbours.md",
+=======
+>>>>>>> 64c15b1 (Uppdaterade)
     "Discriminant Analysis.md",
 <<<<<<< HEAD
     "2 Model Dependencies and Kriging.md",
@@ -245,19 +248,30 @@
 >>>>>>> d4794ce (update)
 =======
     "Parameter Estimation.md",
+    "4 Image Classification and Feature Extraction.md",
+    "Raw Moments.md",
+    "Gaussian Mixture Model.md",
+    "K-means.md",
+    "Intensity Based Thresholding.md",
+    "Support Vector Machine.md",
+    "Miscalculations.md",
     "3 Point Processes.md",
-    "Point Process Characteristics.md",
-    "Types of Processes.md",
     "Cumulative Scale.md",
-    "Local Scale.md",
+    "Point Process Characteristics.md",
     "2 Model Dependencies and Kriging.md",
     "1 General background.md",
+    "Ising Model.md",
+    "Local Scale.md",
+    "Types of Processes.md",
     "Kriging.md",
     "Solve Matrix.md",
     "Covariance Matrix.md",
     "Variogram.md",
+    "Covariance Function $C$.md",
+    "Isotropy.md",
     "Stationary.md",
     "Joint Distribution.md",
+<<<<<<< HEAD
     "Covariance Function $C$.md",
     "Edge Detection.md",
     "Gaussian filtering.md",
@@ -266,6 +280,9 @@
     "Markov Chain Monte Carlo Methods.md",
     "Ising Model.md",
 >>>>>>> 4fef4bd (Updated)
+=======
+    "M-Nearest Neighbours.md",
+>>>>>>> 64c15b1 (Uppdaterade)
     "Solving $"
   ]
 }
